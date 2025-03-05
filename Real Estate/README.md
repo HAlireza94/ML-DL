@@ -1,5 +1,5 @@
 # House Prices Prediction for King County  
-In here, I built a model to predict housing prices in King County, KC. Using XGBoost, I could get an accuracy of almost 92%, which is far better than that of almost 77% from linear regression.
+In here, I built a model to predict housing prices in King County, KC. Using XGBoost, I could get an accuracy of almost 92%, which is far better than that of almost 77% from linear regression, meaning the model has been improved by roughly 15%.
 To get use of high-performance, it is better to run the script in HPCs as:  
 python ./price.py > output.log 2>&1 &
 
