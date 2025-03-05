@@ -4,7 +4,7 @@ To get use of high-performance, it is better to run the script in HPCs as:
 python ./price.py > output.log 2>&1 &
 
 
-## Quick Take Away from Histogram, Price Distribution
+# Quick Take Away from Histogram, Price Distribution
 * We can see most houses are somehwere between 0 to $1 million
 * Price distribution has a correlation with Squared Feet Living, which is not that much strong
 
